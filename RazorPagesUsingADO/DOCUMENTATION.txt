@@ -1,0 +1,4 @@
+﻿https://www.c-sharpcorner.com/article/razor-page-web-application-with-asp-net-core-using-ado-net/ This is the solution
+
+
+https://www.yogihosting.com/ado-net-aspnet-core/#data-providers Lecture about ADO.NET
